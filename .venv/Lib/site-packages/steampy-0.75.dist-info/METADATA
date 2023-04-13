@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: steampy
+Version: 0.75
+Summary: A Steam lib for trade automation
+Home-page: https://github.com/bukson/steampy
+Author: Michał Bukowski
+Author-email: gigibukson@gmail.com
+License: MIT
+Download-URL: https://github.com/bukson/steampy/tarball/0.75
+Keywords: steam,trade
+Platform: UNKNOWN
+License-File: LICENSE.txt
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: rsa
+
+UNKNOWN
+
